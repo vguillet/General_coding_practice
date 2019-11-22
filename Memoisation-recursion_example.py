@@ -1,5 +1,5 @@
 """
-
+A simple memoisation example used to improve recursion processes, here demonstrated using fibonacy
 """
 
 # Built-in/Generic Imports
